@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mycompany.creazytictoctoe",
+    "sha256_cert_fingerprints":
+    ["D8:7B:B7:26:3D:FF:43:1B:B8:4F:11:B8:05:B1:6C:82:74:BE:57:AE:CB:43:B0:60:9E:E3:05:47:ED:A6:29:C1"]
+  }
+}]
